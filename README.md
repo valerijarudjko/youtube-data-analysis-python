@@ -10,4 +10,12 @@ The dataset used in this project contains global statistics on YouTube channels 
 - Subscriber counts
 - Video uploads
 - Channel and video descriptions
-- And other key metrics for analyzing YouTube's performance globally.
+- And other key metrics for analysing YouTube's performance globally.
+
+## Project Goals
+
+The goal of this project is to leverage Python's powerful data analysis libraries (such as Pandas, Matplotlib, and Seaborn) to:
+- Clean and preprocess the dataset
+- Perform in-depth exploratory data analysis (EDA)
+- Visualise key insights related to YouTube video performance and trends
+- Answer questions related to the global distribution of video content, channel engagement, and more.
