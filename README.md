@@ -19,3 +19,22 @@ The goal of this project is to leverage Python's powerful data analysis librarie
 - Perform in-depth exploratory data analysis (EDA)
 - Visualise key insights related to YouTube video performance and trends
 - Answer questions related to the global distribution of video content, channel engagement, and more.
+
+## Tools and Libraries Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Getting Started
+
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/valerijarudjko/youtube-data-analysis-python.git
+
+
+
+   
