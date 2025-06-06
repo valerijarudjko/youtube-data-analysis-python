@@ -1,4 +1,5 @@
- # In case pip broke inside your virtual env (can't find pip._internal.build_env)
+ # In case pip broke inside your virtual env
+ (can't find pip._internal.build_env)
  and with it, most likely, the necessary Jupyter modules (ipykernel, jupyter-client, etc.
  - so VS Code can't get the kernel up and ‘hangs’ on port timeout.
 
