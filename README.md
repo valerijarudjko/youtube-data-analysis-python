@@ -2,7 +2,7 @@
 
 This project performs exploratory data analysis (EDA) using Python on the 2023 Global YouTube Statistics dataset to uncover trends, patterns, and insights in YouTube video and channel data.
 
-- ## Dataset Overview
+## Dataset Overview
 
 
 The dataset used in this project contains global statistics on YouTube channels and videos from 2023. It includes information such as:
